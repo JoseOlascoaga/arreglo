@@ -79,7 +79,7 @@ public class CrudContratistas
      labelTelefono.setBounds(800, 110, 170, 25);
      JTextField fieldTelefono = new JTextField();
      fieldTelefono.setBounds(860, 110, 170, 25);
-     
+     ///
      JLabel labelDp2= new JLabel("DATOS EDUCATIVOS");
      labelDp2.setBounds(100, 100, 200, 150);
      labelDp2.setFont(new Font("arial",Font.PLAIN,18));
